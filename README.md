@@ -2,6 +2,8 @@
 
 This repository accompanies the paper "Causal Ordering for Structure Learning from Time Series" published in Transactions on Machine Learning Research ([link to the paper](https://openreview.net/forum?id=hWuTzqggSd)).
 
+**See also:** [Time Series Causal Discovery Benchmark](https://chai-uk.github.io/tscd-benchmark/) (used to run experiments).
+
 ## One-click Test
 Run the following to install necessary packages and execute a demo in a single step:
 ```
