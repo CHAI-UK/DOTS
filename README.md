@@ -25,16 +25,17 @@ python demo.py
 ## Interactive Test
 Once you have installed necessary packages (see steps above), you can also try an interactive [demo](./demo.ipynb).
 
+## Replicating Experiments
+You can use the [TSCD Benchmark](https://chai-uk.github.io/tscd-benchmark/) to fully replicate our results in an end-to-end manner.
+
 ## Cite Us
 
 ```
-@article{
-sanchez2025causal,
+@article{sanchez2025causal,
 title={Causal Ordering for Structure Learning from Time Series},
 author={Pedro Sanchez and Damian Machlanski and Steven McDonagh and Sotirios A. Tsaftaris},
 journal={Transactions on Machine Learning Research},
 issn={2835-8856},
 year={2025},
-url={https://openreview.net/forum?id=hWuTzqggSd}
-}
+url={https://openreview.net/forum?id=hWuTzqggSd}}
 ```
